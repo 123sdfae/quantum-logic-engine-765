@@ -1,0 +1,1 @@
+const service_nvx3 = <T>(args: T): T => { return args; };
